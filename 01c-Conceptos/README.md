@@ -1,4 +1,4 @@
-![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
+ ![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
 
 <table class="hide" width="100%" style='table-layout:fixed;'>
   <tr>
@@ -67,7 +67,7 @@ Nos podemos dar cuenta que algo es un statement, porque si lo *pegamos* en la co
     console.log(Math.pow(2,3) + 22);
     
     // statements
-    console.log(if( true) {
+    console.log(if(true) {
       // código
     });
     // jamás haríamos esto de arriba, no?
